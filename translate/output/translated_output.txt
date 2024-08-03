@@ -1,0 +1,14 @@
+Hublis Electricity Supply Company Limited
+Merci !
+Votre paiement a été reçu avec succès avec les détails suivants.Veuillez citer votre numéro de référence de transaction pour tout
+requêtes relatives à cette demande.
+Impression de reconnaissance de la transaction
+Succès de l'état de la transaction
+ID de transaction ZHD52141519160
+Date de transaction 2024-07-07 20: 50: 18.0
+Numéro de référence de la transaction 46974024
+Mode de paiement UPI
+Revenus de type de transaction
+Montant d'identification du compte en Rs
+5138501000 205
+Montant total en Rs 205 (deux cent cinq roupies seulement)
